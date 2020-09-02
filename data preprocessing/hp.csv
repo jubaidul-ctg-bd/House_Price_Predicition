@@ -1,0 +1,137 @@
+Property Type,Bed,Bath,Area,Location,Price,View,Balcony_or_Terrace,Lobby_in_Building,ElectricityBackup,Intercom,CCTV_Security,Pet Policy,Maintenance_Staff,CleaningServices,Tiles
+Apartment,2,2,775,Sector 10,"3,800,000",West,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,2,2,765,Sector 10,"3,978,000",East,Yes,Yes,Yes,Yes,No,Not allowed,Yes,Yes,No
+Apartment,2,2,772,Sector 10,"4,000,000",South,Yes,No,Yes,No,No,Not allowed,Yes,Yes,Yes
+Apartment,2,2,1008,Sector 10,"4,200,000",Nort,Yes,No,Yes,Yes,No,Not allowed,Yes,Yes,Yes
+Apartment,2,2,"1,005",Sector 10,"4,200,000",East,Yes,Yes,Yes,Yes,No,Not allowed,Yes,Yes,Yes
+Apartment,2,2,910,Sector 13,"4,200,000",West,Yes,Yes,No,Yes,No,Not allowed,Yes,Yes,No
+Apartment,2,2,950,Sector 10,"4,500,000",South,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,2,2,"1,050",Sector 14,"4,500,000",South,Yes,No,No,No,No,Not allowed,Yes,Yes,Yes
+Apartment,2,2,950,Sector 12,"4,500,000",East,Yes,No,No,No,No,Not allowed,Yes,Yes,Yes
+Apartment,2,2,900,Sector 10,"4,500,000",South,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,No
+Apartment,2,2,750,Sector 12," 4,500,000",Nort,Yes,No,Yes,No,Yes,Not allowed,Yes,Yes,No
+Apartment,2,2,885,Sector 12,"4,500,000",West,Yes,No,Yes,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,2,900,Sector 10,"4,500,000",South,Yes,No,No,No,No,Not allowed,Yes,Yes,Yes
+Apartment,2,2,860,Sector 10,"4,600,000",West,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,No
+Apartment,2,2,910,Sector 13,"4,700,000",west,Yes,Yes,No,Yes,No,Not allowed,Yes,Yes,No
+Apartment,2,2,900,Sector 12,"4,700,000",West,Yes,Yes,No,Yes,No,Not allowed,Yes,Yes,No
+Apartment,2,2,950,Sector 12," 4,800,000",East,Yes,No,No,No,No,Not allowed,Yes,Yes,Yes
+Apartment,2,2,950,Sector D,"5,000,000",South,Yes,Yes,Yes,Yes,Yes,Not allowed,No,Yes,Yes
+Apartment,2,2,950,Sector D,"5,000,000",South,Yes,Yes,Yes,Yes,Yes,Not allowed,No,Yes,Yes
+Apartment,2,2,980,Sector 10,"5,000,000",Nort,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,No
+Apartment,3,2,1000,Sector 14,"5,000,000",West,Yes,Yes,No,Yes,No,Not allowed,Yes,Yes,No
+Apartment,2,2,950,Sector 10,"5,000,000",South,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,No
+Apartment,2,2,1005,Sector 10,"5,000,000",East,Yes,No,No,No,No,Not allowed,Yes,Yes,Yes
+Apartment,2,2,1065,Sector 10,"5,000,000",East,Yes,No,No,Yes,No,Not allowed,No,No,No
+Apartment,2,2,807,Sector 5,"5,200,000",West,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,No
+Apartment,2,2,900,Sector 10,"5,200,000",East,Yes,No,No,No,No,Not allowed,Yes,Yes,Yes
+Apartment,3,2,1050,Sector 10,"5,250,000",Nort,Yes,Yes,Yes,Yes,No,Not allowed,No,No,No
+Apartment,2,2,1000,Sector 11,"5,500,000",Nort,Yes,No,No,No,Yes,Not allowed,Yes,Yes,No
+Apartment,2,2,950,Sector 11,"5,500,000",South,Yes,No,No,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,2,1000,Sector 5,"5,500,000",west,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,No
+Apartment,2,2,1400,Sector 12,"5,500,000",North,Yes,No,Yes,No,No,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1230,Sector 5,"5,500,000",Nortg,Yes,Yes,Yes,Yes,No,Not allowed,Yes,Yes,No
+Apartment,3,2,900,Sector 10,"5,500,000",South,Yes,No,No,No,No,Not allowed,Yes,Yes,Yes
+Apartment,2,2,900,Sector 12,"5,500,000",South,Yes,No,No,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,2,2,965,Sector 10,"5,500,000",East,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,No
+Apartment,2,2,850,Sector 12," 5,500,000",North,Yes,No,Yes,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,2,2,1089,Sector 12," 5,500,001",West,Yes,Yes,No,No,No,Not allowed,Yes,Yes,No
+Apartment,2,2,1000,Sector 13," 5,500,002",West,Yes,Yes,No,Yes,No,not allowed,Yes,Yes,No
+Apartment,3,3,1205,Sector 10,"5,543,000",North,Yes,Yes,Yes,Yes,Yes,not allowed,Yes,Yes,No
+Apartment,2,2,930,Sector 12,"5,580,000",North,Yes,No,No,No,No,not allowed,No,No,Yes
+Apartment,3,2,1050,Sector 12,"5,600,000",North,Yes,No,No,No,No,not allowed,Yes,Yes,No
+Apartment,3,2,1050,Sector D,"5,600,000",South,Yes,Yes,Yes,Yes,Yes,Not allowed,No,Yes,Yes
+Apartment,2,2,900,Sector 12,"5,600,000",South,Yes,No,Yes,No,Yes,not allowed,Yes,Yes,Yes
+Apartment,2,2,900,Sector 12,"5,600,000",North,Yes,No,No,No,No,Not allowed,Yes,Yes,Yes
+Apartment,2,2,860,Sector 12,"5,632,000",East,Yes,Yes,No,No,Yes,Not allowed,No,No,No
+Apartment,3,2,1150,Sector 10,"5,800,000",South,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,2,913,Sector 1,"5,800,000",West,Yes,No,No,No,No,Not allowed,No,No,Yes
+Apartment,2,2,900,Sector 14,"5,800,000",North,Yes,No,No,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,2,2,790,Sector 12,"5,900,000",North,Yes,No,Yes,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1500,Sector 10,"6,000,000",East,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,2,2,925,Sector 10,"6,000,000",South,Yes,Yes,Yes,Yes,No,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1150,Sector 5,"6,000,000",North,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,2,920,Sector 14,"6,000,000",North,Yes,Yes,Yes,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,2,2,1000,Sector 11," 6,000,000",North,Yes,Yes,No,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1130,Sector 14," 6,000,000",West,Yes,No,Yes,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,2,1050,Sector 14," 6,000,000",West,Yes,Yes,Yes,No,No,Not allowed,Yes,Yes,No
+Apartment,3,4,1155,Sector 14," 6,000,000",North,Yes,No,Yes,No,Yes,Not allowed,Yes,Yes,No
+Apartment,2,2,900,Sector 12," 6,000,000",South,Yes,No,Yes,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,2,3,900,Sector 14," 6,000,000",North,Yes,No,No,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,2,2,1100,Sector 14," 6,000,000",West,Yes,Yes,No,Yes,no,Not allowed,Yes,Yes,No
+Apartment,2,2,930,Sector 12," 6,000,000",North,No,Yes,Yes,No,No,Not allowed,No,No,Yes
+Apartment,3,3,1325,Sector 10,"6,095,000",North,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,No
+Apartment,3,2,1250,Sector 10,"6,200,000",South,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,No
+Apartment,2,2,1100,Sector 7,"6,300,000",East,Yes,Yes,Yes,Yes,Yes,Not allowed,No,Yes,Yes
+Apartment,3,2,1050,Sector 10,"6,300,000",South,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,No
+Apartment,3,3,1213,Sector 5,"6,500,000",South,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,2,2,1050,Sector 10,"6,500,000",North,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1275,Sector 11,"6,500,000",South,Yes,No,No,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,2,2,1000,Sector 12," 6,500,000",West,Yes,No,Yes,No,No,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1225,Sector 11,"6,500,000",South,Yes,Yes,No,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1100,Sector 10,"6,500,000",West,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1180,Sector 5,"6,500,000",South,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,2,950,Sector 11,"6,500,000",South,Yes,No,No,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1400,Sector 10,"6,500,000",West,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1250,Sector 10," 6,500,000",West,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,2,1110,Sector 10,"6,500,000",west,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1000,Sector 10,"6,500,000",East,Yes,Yes,Yes,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,2,2,805,Sector 6," 6,700,000",North,Yes,Yes,No,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1450,Sector 10,"6,960,000",west,Yes,Yes,Yes,Yes,No,Not allowed,Yes,Yes,No
+Apartment,3,3,1100,Sector 9,"7,000,000",South,Yes,Yes,No,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1700,Sector 12,"7,000,000",North,Yes,Yes,Yes,No,No,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1125,Sector 10,"7,000,000",South,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,No
+Apartment,3,2,1395,Sector 10,"7,000,000",North,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,No
+Apartment,3,4,1600,Sector 10,"7,000,000",South,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1500,Sector 10,"7,000,000",South,Yes,Yes,No,Yes,No,Not allowed,Yes,Yes,Yes
+Apartment,3,2,1250,Sector 13,"7,000,000",West,Yes,Yes,No,Yes,No,Not allowed,Yes,Yes,Yes
+Apartment,3,4,1517,Sector 13,"7,000,000",north,Yes,Yes,No,Yes,No,Not allowed,Yes,Yes,Yes
+Apartment,2,2,1070,Sector 12,"7,000,000",West,Yes,Yes,Yes,Yes,No,Not allowed,No,No,Yes
+Apartment,3,3,1305,Sector 10,"7,200,000",West,Yes,Yes,No,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1600,Sector 5,"7,200,000",West,Yes,No,No,No,No,Not allowed,Yes,No,Yes
+Apartment,3,3,1340,Sector 11," 7,200,000",West,Yes,No,No,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,2,1000,Sector 9,"7,200,000",West,Yes,Yes,No,Yes,No,Not allowed,Yes,Yes,Yes
+Apartment,2,2,1050,Sector 14,"7,350,000",South,Yes,Yes,Yes,No,Yes,Not allowed,No,No,Yes
+Apartment,3,3,1250,Sector 10,"7,400,000",West,Yes,Yes,Yes,Yes,No,Not allowed,Yes,Yes,Yes
+Apartment,3,2,1150,Sector 5,"7,500,000",West,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1250,Sector 11,"7,500,000",North,Yes,No,No,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1275,Sector 10,"7,500,000",East,Yes,No,No,No,No,Not allowed,Yes,Yes,Yes
+Apartment,3,2,1025,Sector 5," 7,500,000",East,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,4,1365,Sector 10,"7,500,000",South,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,4,1400,Sector 10,"7,500,000",West,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,No
+Apartment,3,3,1500,Sector 10,"7,500,000",South,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1250,Sector 10,"7,600,000",South,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,2,2,950,Sector 11,"7,600,000",East,Yes,No,No,No,No,Not allowed,Yes,Yes,Yes
+Apartment,3,4,1700,Sector 10,"7,650,000",South,Yes,Yes,Yes,Yes,No,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1250,Sector 10,"7,700,000",South,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,2,2,1079,Sector 9,"7,768,800",South,Yes,No,No,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1289,Sector 10,"7,800,000",South,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1250,Sector 10,"7,800,000",South,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,No
+Apartment,2,2,1215,Sector 4,"7,800,000",West,Yes,Yes,No,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,2,2,1200,Sector 3,"7,800,000",East,Yes,Yes,Yes,Yes,No,Not allowed,No,Yes,No
+Apartment,3,2,1218,Sector 10," 7,917,000",East,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1530,Sector 11," 8,000,000",South,Yes,No,No,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1450,Sector 10,"8,000,000",West,Yes,Yes,Yes,Yes,No,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1200,Sector 10,"8,000,000",North,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,No
+Apartment,3,3,1460,Sector 10,"8,000,000",East,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1700,Sector 12,"8,000,000",North,Yes,Yes,Yes,No,No,Not allowed,Yes,Yes,Yes
+Apartment,2,3,1331,Sector 10," 8,000,000",West,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1600,Sector 12,"8,000,000",South,Yes,Yes,No,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1553,Sector 10,"8,000,000",East,Yes,No,Yes,Yes,No,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1350,Sector 10," 8,000,000",East,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1400,Sector 10,"8,000,000",East,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,4,1480,Sector 10,"8,000,000",West,Yes,Yes,Yes,No,No,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1350,Sector 10," 8,000,000",East,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1400,Sector 10," 8,000,000",East,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,2,1250,Sector 11," 8,000,000",South,Yes,Yes,No,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,2,4,1350,Sector 10," 8,000,000",East,Yes,Yes,No,Yes,Yes,Not allowed,Yes,No,Yes
+Apartment,3,3,1340,Sector 5,"8,040,000",West,Yes,Yes,Yes,Yes,No,Not allowed,Yes,Yes,NO
+Apartment,3,3,1240,Sector 10,"8,060,000",West,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1300,Sector 11,"8,060,000",South,Yes,Yes,No,No,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,4,1553,Sector 10,"8,075,600",South,Yes,Yes,Yes,Yes,No,Not allowed,Yes,Yes,No
+Apartment,3,3,1166,Sector 10,"8,200,000",East,Yes,Yes,No,No,No,Not allowed,Yes,Yes,Yes
+Apartment,3,4,1500,Sector 10," 8,250,000",East,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1500,Sector 10," 8,250,000",East,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,4,1482,Sector 10,"8,300,000",East,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,2,1250,Sector 10,"8,300,000",West,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
+Apartment,3,3,1280,Sector 10," 8,320,000",West,Yes,Yes,Yes,Yes,Yes,Not allowed,Yes,Yes,Yes
